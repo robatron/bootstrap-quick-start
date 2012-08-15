@@ -9,19 +9,7 @@ A download-and-go Bootstrap starter page with:
 
 View a live example [here](robatron.github.com/bootstrap-starter).
 
-Based on the [starter template example][eg] on the 
-[Bootstrap project page][bootstrap-proj].    
+Based on the Bootstrap [starter template example][eg].    
 
 [eg]:http://twitter.github.com/bootstrap/examples/starter-template.html
-[bootstrap-proj]:http://twitter.github.com/bootstrap/
-
-
-Usage
------
-
-1. [Download](https://github.com/robatron/bootstrap-starter/zipball/master) 
-   this repository
-2. Unzip files
-3. Open [index.html](https://github.com/robatron/bootstrap-starter/blob/master/index.html)
-   in a web browser
     
