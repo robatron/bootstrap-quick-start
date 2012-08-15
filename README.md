@@ -3,7 +3,7 @@ Bootstrap starter page
 
 A download-and-go [Bootstrap starter template][bootstrap-eg] with: 
 
-- 4-space tabs (hard)
+- 4-space soft tabs
 - 70-column wrap
 - All required dependencies included
 
