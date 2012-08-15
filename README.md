@@ -1,7 +1,7 @@
 Bootstrap starter page 
-=====================
+======================
 
-A bare-bones Bootstrap starter page with: 
+A download-and-go Bootstrap starter page with: 
 
 - 4-space indents
 - 70-column wrap
@@ -18,4 +18,13 @@ Based on the [starter template example][eg] on the
 
 [eg]:http://twitter.github.com/bootstrap/examples/starter-template.html
 [bootstrap-proj]:http://twitter.github.com/bootstrap/
+
+Installation
+------------
+
+1. [Download](https://github.com/robatron/bootstrap-starter/zipball/master) 
+   this repository
+2. Unzip files
+3. Open [index.html](https://github.com/robatron/bootstrap-starter/blob/master/index.html)
+   in a web browser
     
