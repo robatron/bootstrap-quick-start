@@ -1,5 +1,5 @@
-Bootstrap starter page 
-======================
+Bootstrap quick start 
+=====================
 
 A stripped-down [Bootstrap starter template][bootstrap-eg] with: 
 
