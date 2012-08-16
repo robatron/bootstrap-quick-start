@@ -1,7 +1,7 @@
 Bootstrap starter page 
 ======================
 
-A download-and-go [Bootstrap starter template][bootstrap-eg] with: 
+A stripped-down [Bootstrap starter template][bootstrap-eg] with: 
 
 - 4-space soft tabs
 - 70-column wrap
