@@ -10,5 +10,5 @@ A stripped-down [Bootstrap starter template][bootstrap-eg] with:
 [Download][dl] or clone this repo, or view it live [here][eg]. 
 
 [bootstrap-eg]:http://twitter.github.com/bootstrap/examples/starter-template.html
-[dl]:https://github.com/robatron/bootstrap-starter/zipball/master
+[dl]:https://github.com/robatron/bootstrap-quick-start/zipball/master
 [eg]:http://robatron.github.com/bootstrap-quick-start
